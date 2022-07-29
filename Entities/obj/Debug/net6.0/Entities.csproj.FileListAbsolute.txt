@@ -1,0 +1,15 @@
+D:\Practice\API_Template\MyApi\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\Practice\API_Template\MyApi\Entities\bin\Debug\net6.0\Entities.dll
+D:\Practice\API_Template\MyApi\Entities\bin\Debug\net6.0\Entities.pdb
+D:\Practice\API_Template\MyApi\Entities\bin\Debug\net6.0\Common.dll
+D:\Practice\API_Template\MyApi\Entities\bin\Debug\net6.0\Common.pdb
+D:\Practice\API_Template\MyApi\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\Practice\API_Template\MyApi\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\API_Template\MyApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\Practice\API_Template\MyApi\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\Practice\API_Template\MyApi\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\Practice\API_Template\MyApi\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
+D:\Practice\API_Template\MyApi\Entities\obj\Debug\net6.0\Entities.dll
+D:\Practice\API_Template\MyApi\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\Practice\API_Template\MyApi\Entities\obj\Debug\net6.0\Entities.pdb
+D:\Practice\API_Template\MyApi\Entities\obj\Debug\net6.0\ref\Entities.dll
